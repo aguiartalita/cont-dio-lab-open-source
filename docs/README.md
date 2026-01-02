@@ -25,3 +25,14 @@ docs/
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+
+## Contribuição da Comunidade
+
+Esta contribuição foi realizada como parte da formação **Contribuindo em um Projeto Open Source no GitHub** da Digital Innovation One.
+
+### O que foi feito
+- Inclusão de uma seção de contribuição no README
+- Exemplo prático de participação em projeto open source para alunos da DIO
+
+Contribuição realizada por: **@aguiartalita**
+
